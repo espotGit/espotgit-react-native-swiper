@@ -1,0 +1,22 @@
+{
+  "name": "espotgit-react-native-swiper",
+  "version": "1.5.14.1",
+  "description": "update react-native-swiper",
+  "main": "index.js",
+  "scripts": {
+    "test": " npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espotGit/espotgit-react-native-swiper.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "espot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/espotGit/espot-react-native-swiper/issues"
+  },
+  "homepage": "https://github.com/espotGit/espotgit-react-native-swiper#readme"
+}
